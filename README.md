@@ -6,7 +6,7 @@ Turn raw customer support tickets into structured, queryable, and mathematically
 This interactive **Streamlit** dashboard processes real-world support language from the banking sector to surface underlying customer friction points, group them automatically into coherent themes using Machine Learning, and compare traditional keyword search against advanced semantic search.
 
 ---
-
+## LIVE DEMO:https://support-signal-radargit-ttukyaln2qnebpzubkpvc4.streamlit.app/
 ## 🚀 Key Features
 
 - **Automated Topic Clustering**: Uses a cached embedding pipeline to vectorise text via `all-MiniLM-L6-v2` and cluster them into 12 distinct customer issue topics using **K-Means**.
